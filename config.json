@@ -1,0 +1,8 @@
+{
+    "smtp_server": "sandbox.smtp.mailtrap.io",
+    "smtp_port": 2525,
+    "email": "your_mailtrap_email",
+    "password": "your_mailtrap_password",
+    "interval": 60,
+    "device_id": "Device_1"
+}
